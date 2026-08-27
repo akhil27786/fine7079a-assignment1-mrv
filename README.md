@@ -32,5 +32,5 @@ await c.getAddress()
 - Deployment transaction: 0xc144e9fef60264c7ae07951e6e7d10634baa64db40e76276161d14a26925544b
 
 ## Demonstration video
-https://www.youtube.com/watch?v=qGip8_wfpBM
+https://www.youtube.com/watch?v=RPlgDrJsdIY
 
